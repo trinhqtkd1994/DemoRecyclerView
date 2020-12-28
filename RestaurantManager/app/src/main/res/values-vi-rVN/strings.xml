@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Restaurant Manager</string>
+    <string name="nhan_vien">Nhân Viên</string>
+    <string name="thuc_khach">Thực Khách</string>
+    <string name="dang_nhap">Đăng Nhập</string>
+    <string name="tai_khoan">Tài Khoản</string>
+    <string name="mat_khau">Mật Khẩu</string>
+    <string name="tvtdang_nhap">Đăng Nhập:</string>
+    <string name="xac_nhan">Xác Nhận</string>
+</resources>

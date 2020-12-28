@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    
+    <string name="nhan_vien">Staff</string>
+    <string name="thuc_khach">Diners</string>
+    <string name="dang_nhap">Login :</string>
+</resources>

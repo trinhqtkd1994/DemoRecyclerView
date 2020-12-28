@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Restaurant Manager</string>
+
+    <string name="nhan_vien">Staff</string>
+    <string name="thuc_khach">Diners</string>
+    <string name="tvtdang_nhap">Login :</string>
+
+    <string name="tai_khoan">Account</string>
+    <string name="mat_khau">Password</string>
+    <string name="dang_nhap">Login</string>
+    <string name="xac_nhan">Confirm</string>
+</resources>

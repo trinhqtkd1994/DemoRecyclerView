@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="nhan_vien">Nhân Viên</string>
+    <string name="thuc_khach">Thực Khách</string>
+    <string name="dang_nhap">Đăng Nhập :</string>
+</resources>
